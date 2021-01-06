@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=baspinarenes&show_icons=true">
 
-<!--
-**baspinarenes/baspinarenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Selam 👋</h1>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=baspinarenes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/enesbaspinar0)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-hoffmann-3b8933b1)
+[![Blog Badge](https://img.shields.io/badge/baspinarenes.github.io-000000?style=for-the-badge&logo=Bitdefender&logoColor=white&link=mailto:enesbaspinar07@gmail.com)](mailto:mertcobanov@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/enesbaspinar07@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:enesbaspinar07@gmail.com)](mailto:mertcobanov@gmail.com)
+
+<br>
+
+## Bazı Blog Yazılarım
+
+### Python:
+
+- [Değişken Deyince Ne Anlamalı?](https://baspinarenes.github.io/python/degisken-deyince-ne-anlamali/)
+- [Yerleşik Düzene Geçen Fonksiyonlar](https://baspinarenes.github.io/python/yerlesik-duzene-gecen-fonksiyonlar/)
+
+
+### Git:
+
+- [Divanu Lügatit Git Serisi](https://baspinarenes.github.io/git/divanu-lugatit-git-0/)
+
+### C/C++:
+
+- [Pointer'landıramadıklarımızdan Mısınız?](https://baspinarenes.github.io/c-dilleri/pointerlandiramadiklarimizdanmisiniz/)
