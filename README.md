@@ -13,16 +13,7 @@
 
 ## Bazı Blog Yazılarım
 
-### Python:
-
-- [Değişken Deyince Ne Anlamalı?](https://baspinarenes.github.io/python/degisken-deyince-ne-anlamali/)
-- [Yerleşik Düzene Geçen Fonksiyonlar](https://baspinarenes.github.io/python/yerlesik-duzene-gecen-fonksiyonlar/)
-
-
-### Git:
-
-- [Divanu Lügatit Git Serisi](https://baspinarenes.github.io/git/divanu-lugatit-git-0/)
-
-### C/C++:
-
-- [Pointer'landıramadıklarımızdan Mısınız?](https://baspinarenes.github.io/c-dilleri/pointerlandiramadiklarimizdanmisiniz/)
+- Python: [Değişken Deyince Ne Anlamalı?](https://baspinarenes.github.io/python/degisken-deyince-ne-anlamali/)
+- Python: [Yerleşik Düzene Geçen Fonksiyonlar](https://baspinarenes.github.io/python/yerlesik-duzene-gecen-fonksiyonlar/)
+- Git: [Divanu Lügatit Git Serisi](https://baspinarenes.github.io/git/divanu-lugatit-git-0/)
+- C/C++: [Pointer'landıramadıklarımızdan Mısınız?](https://baspinarenes.github.io/c-dilleri/pointerlandiramadiklarimizdanmisiniz/)
