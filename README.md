@@ -27,10 +27,10 @@ Ben Enes, son 1-1.5 ay içinde taze alan değişikliği gerçekleştirdim ve ken
 <h3>İletişim</h3>
 
 <p>
-    <a href="https://github.com/baspinarenes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=Github&logoColor=white" /></a> 
-    <a href="https://twitter.com/enesbaspinar0" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=Twitter&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/enesbaspinar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:enesbaspinar07@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/enesbaspinar07@gmail.com-c14438?&logo=Gmail&logoColor=white" /></a>
+    <a href="https://github.com/baspinarenes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=Github&logoColor=white" /></a> 
+    <a href="https://twitter.com/enesbaspinar0" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" /></a> 
+    <a href="https://www.linkedin.com/in/enesbaspinar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:enesbaspinar07@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/enesbaspinar07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 
 <h3>İstatistiklerim</h3>
