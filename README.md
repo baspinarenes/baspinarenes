@@ -1,7 +1,7 @@
-<h1 align="center">Selam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, ben Enes.</h1>
-<h3 align="center">Junior Front-End Developer</h3>
+<h1 align="center">Selam, ben Enes.</h1>
+<h3 align="center">Front-End Developer</h3>
 
-Ben Enes, son 1-1.5 ay içinde taze alan değişikliği gerçekleştirdim ve kendimi Front-End alanında geliştiriyorum.
+Ben Enes, son 1-1.5 ay içinde taze alan değişikliği gerçekleştirdim ve Frontend alanında gelişim gösteriyorum.
 
 <h3>Kullandığım teknolojiler</h3>
 
