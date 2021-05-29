@@ -17,7 +17,7 @@ Ben Enes, son 1-1.5 ay içinde taze alan değişikliği gerçekleştirdim ve Fro
 
 <h3>Blog yazılarım</h3>
 
-- [Pointer'landıramadıklarımızdan Mısınız?](https://enesbaspinar.me/blog/cpp/pointerlandiramadiklarimizdanmisiniz) (C++)
+- [Pointer'landıramadıklarımızdan Mısınız?](http://enesbaspinar.me/blog/genel/pointerlandiramadiklarimizdanmisiniz) (Genel)
 - [Terminale Biraz Renk Katalım](https://enesbaspinar.me/blog/ubuntu/terminale-renk-katalim) (Linux)
 - [Kuş Bakışı](https://enesbaspinar.me/blog/python/kus-bakisi-python) (Python)
 - [Yerleşik Düzene Geçen Fonksiyonlar](https://enesbaspinar.me/blog/python/yerlesik-duzene-gecen-fonksiyonlar) (Python)
