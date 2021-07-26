@@ -12,7 +12,7 @@ Ben Enes, son 1-1.5 ay içinde taze alan değişikliği gerçekleştirdim ve Fro
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
 <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git-scm" height="42px"/>
 
-<br><br>
+<br><br><br>
 
 <h3>Blog yazılarım</h3>
 
