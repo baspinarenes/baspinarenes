@@ -1,37 +1,43 @@
-<h1 align="center">Selam, ben Enes.</h1>
+<h1 align="center">Hi, I'm Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Front-End Developer</h3>
 
-Ben Enes, son 1-1.5 ay içinde taze alan değişikliği gerçekleştirdim ve Frontend alanında gelişim gösteriyorum.
-
-<h3>Kullandığım teknolojiler</h3>
-
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg" alt="sass" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git-scm" height="42px"/>
-
-<br><br><br>
-
-<h3>Blog yazılarım</h3>
-
-- [Pointer'landıramadıklarımızdan Mısınız?](http://enesbaspinar.me/blog/genel/pointerlandiramadiklarimizdanmisiniz) (Genel)
-- [Terminale Biraz Renk Katalım](https://enesbaspinar.me/blog/ubuntu/terminale-renk-katalim) (Linux)
-- [Kuş Bakışı](https://enesbaspinar.me/blog/python/kus-bakisi-python) (Python)
-- [Yerleşik Düzene Geçen Fonksiyonlar](https://enesbaspinar.me/blog/python/yerlesik-duzene-gecen-fonksiyonlar) (Python)
-- [Modül Modül Python](https://enesbaspinar.me/blog/python/modul-modul-python-random) (Python)
-- [Değişken Deyince Ne Anlamalı?](https://enesbaspinar.me/blog/python/degisken-deyince-ne-anlamali) (Python)
-
-<h3>İletişim</h3>
-
-<p>
-    <a href="https://github.com/baspinarenes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/@baspinarenes-%2312100E.svg?style=flat-square&logo=Github&logoColor=white" height=22/></a> 
-    <a href="https://twitter.com/enesbaspinar0" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@enesbaspinar0-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" height=22/></a> 
-    <a href="https://www.linkedin.com/in/enesbaspinar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@enesbaspinar-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height=22/></a>
-    <a href="mailto:enesbaspinar07@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/enesbaspinar07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
+<p align="center">
+  <a href="https://twitter.com/enesbaspinar0" style="margin:0 10px">
+    <img alt="Enes Baspinar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/enesbaspinar/" style="margin:0 10px">
+    <img alt="Enes Baspinar's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>&nbsp;
+  <a href="mailto:enesbaspinar07@gmail.com" style="margin:0 10px">
+    <img alt="Enes Baspinar's Gmail" width="30px" src="https://raw.githubusercontent.com/jzsfkzm/color-icons-for-gmail/master/resources/Gmail-Icon.png" />
+  </a>
 </p>
 
-<h3>İstatistiklerim</h3>
+<p align="center">For the last 2 months, I've been heading to Frontend. I'm improving myself on JavaScript and React.</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=baspinarenes&show_icons=true">
+<h3 align="center">Technologies</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg" alt="sass" height="42px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git-scm" height="42px"/>
+</p>
+
+<h3 align="center">Blog Posts (:tr:)</h3>
+
+<div align="center">
+    <a href="https://enesbaspinar.me/blog/genel/pointerlandiramadiklarimizdanmisiniz">Pointer'landıramadıklarımızdan Mısınız? (C++)</a><br>
+    <a href="https://enesbaspinar.me/blog/python/kus-bakisi-python">Kuş Bakışı Python (Python)</a><br>
+    <a href="https://enesbaspinar.me/blog/python/yerlesik-duzene-gecen-fonksiyonlar">Yerleşik Düzene Geçen Fonksiyonlar (Python)</a><br>
+    <a href="https://enesbaspinar.me/blog/python/modul-modul-python-random">Modül Modül Python (Python)</a><br>
+    <a href="https://enesbaspinar.me/blog/python/degisken-deyince-ne-anlamali">Değişken Deyince Ne Anlamalı? (Python)</a>
+</div>
+
+<h3 align="center">Statistics</h3>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=baspinarenes&show_icons=true">
+</p>
