@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git-scm" height="42px"/>
 </p>
 
-<h3 align="center">Blog Posts (:tr:)</h3>
+<h3 align="center">Blog Posts (in Turkish)</h3>
 
 <div align="center">
     <a href="https://enesbaspinar.me/blog/genel/pointerlandiramadiklarimizdanmisiniz">Pointer'landıramadıklarımızdan Mısınız? (C++)</a><br>
