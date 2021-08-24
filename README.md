@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p align="center">For the last 2 months, I've been heading to Frontend. I'm improving myself on JavaScript and React.</p>
+<p align="center">I'm improving myself on JavaScript and React. I love to design and add creativity to my projects.</p>
 
 <h3 align="center">Technologies</h3>
 
