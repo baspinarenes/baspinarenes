@@ -29,10 +29,12 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-25A3EE.svg?logo=visual-studio-code&logoColor=white"></a>
 </div>
 
-<h2>Blog Posts (in Turkish)</h2>
+<h2>Some Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baspinarenes&repo=spider-solitaire)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baspinarenes&repo=rick-and-morty)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Blog Posts (🇹🇷)</h2>
 
 <div>
     <a href="https://enesbaspinar.me/blog/genel/pointerlandiramadiklarimizdanmisiniz">Pointer'landıramadıklarımızdan Mısınız? (C++)</a><br>
