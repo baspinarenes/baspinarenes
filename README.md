@@ -1,20 +1,6 @@
-<h1 align="center">Hi, I'm Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">Front-End Developer</h3>
+<h1>Hi, I'm Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<div align="center">
-  <a href="https://twitter.com/enesbaspinar0" style="margin:0 10px">
-    <img alt="Enes Baspinar's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/enesbaspinar/" style="margin:0 10px">
-    <img alt="Enes Baspinar's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>&nbsp;
-  <a href="mailto:enesbaspinar07@gmail.com" style="margin:0 10px">
-    <img alt="Enes Baspinar's Gmail" width="30px" src="https://raw.githubusercontent.com/jzsfkzm/color-icons-for-gmail/master/resources/Gmail-Icon.png" />
-  </a>
-</div>
-
-<br>
-<p align="center">I'm improving myself on JavaScript and React. I love to design and add creativity to my projects.</p>
+Hi, I'am Enes Başpınar, 22 yrs old, Bursa/Turkey. I'm making a career on frontend because love to design and creativity. I'm improving myself on React.
 
 <h2>Tools</h2>
 
