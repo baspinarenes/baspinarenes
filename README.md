@@ -3,7 +3,7 @@
 
 <p align="center">Hi, I'am Enes Başpınar, 22 yrs old, Bursa/Turkey. I'm making a career on frontend because love to design and creativity. I'm improving myself on React. I am a person who is excited while doing his job, tireless and happy. I can make jokes worse than you can imagine.</p>
   
-<h2>Tools</h2>
+<h2>Technologies</h2>
 
 <div>  
   <p>Programming languages and such:</p>
