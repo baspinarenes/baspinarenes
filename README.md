@@ -29,8 +29,10 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-25A3EE.svg?logo=visual-studio-code&logoColor=white"></a>
 </div>
 
-<br>
 <h2>Blog Posts (in Turkish)</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
     <a href="https://enesbaspinar.me/blog/genel/pointerlandiramadiklarimizdanmisiniz">Pointer'landıramadıklarımızdan Mısınız? (C++)</a><br>
@@ -40,11 +42,7 @@
     <a href="https://enesbaspinar.me/blog/python/degisken-deyince-ne-anlamali">Değişken Deyince Ne Anlamalı? (Python)</a>
 </div>
 
-<br>
-
-<h2>Contact</h2>
-
-
 <h2>Statistics</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=baspinarenes&show_icons=true">
+<a href="https://git.io/streak-stats"><img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=baspinarenes&theme=vue-dark&hide_border=true" height="162px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="baspinarenes's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=baspinarenes&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" height="162px"/></a>
