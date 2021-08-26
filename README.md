@@ -29,10 +29,14 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-25A3EE.svg?logo=visual-studio-code&logoColor=white"></a>
 </div>
 
-<h2>Some Projects</h2>
+<h2>Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baspinarenes&repo=spider-solitaire)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baspinarenes&repo=rick-and-morty)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baspinarenes&repo=spider-solitaire)](https://github.com/baspinarenes/spider-solitaire)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baspinarenes&repo=rick-and-morty)](https://github.com/baspinarenes/rick-and-morty)
+
+<h2>Contributions</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=missing-semester-tr&repo=missing-semester-tr.github.io)](https://github.com/missing-semester-tr/missing-semester-tr.github.io)
 
 <h2>Blog Posts (🇹🇷)</h2>
 
