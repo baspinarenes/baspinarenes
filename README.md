@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi, I'm Enes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <p align="center"><a href="https://twitter.com/enesbaspinar0">Twitter</a> | <a href="https://www.linkedin.com/in/enesbaspinar/">Linkedin</a> | <a href="https://enesbaspinar.me/">Blog</a></p>
 
 <p>Hi, I'am Enes Başpınar, 22 yrs old, Bursa/Turkey. I'm making a career on frontend because love to design and creativity. I'm improving myself on React. I am a person who is excited while doing his job, tireless and happy. I can make jokes worse than you can imagine.</p>
