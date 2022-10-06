@@ -41,11 +41,9 @@
 <h2>Blog Posts (🇹🇷)</h2>
 
 <div>
-    <a href="https://enesbaspinar.me/blog/genel/pointerlandiramadiklarimizdanmisiniz">Pointer'landıramadıklarımızdan Mısınız? (C++)</a><br>
-    <a href="https://enesbaspinar.me/blog/python/kus-bakisi-python">Kuş Bakışı Python (Python)</a><br>
-    <a href="https://enesbaspinar.me/blog/python/yerlesik-duzene-gecen-fonksiyonlar">Yerleşik Düzene Geçen Fonksiyonlar (Python)</a><br>
-    <a href="https://enesbaspinar.me/blog/python/modul-modul-python-random">Modül Modül Python (Python)</a><br>
-    <a href="https://enesbaspinar.me/blog/python/degisken-deyince-ne-anlamali">Değişken Deyince Ne Anlamalı? (Python)</a>
+    <a href="https://www.enesbaspinar.com/blog/genel-programlama/pointerlandiramadiklarimizdanmisiniz">Pointer'landıramadıklarımızdan Mısınız? (C++)</a><br>
+    <a href="https://www.enesbaspinar.com/blog/frontend/kurallari-yikmayin-eslint-1">Kuralları Yıkmayın: ESLint - Bölüm 1 (JavaScript)</a><br>
+    <a href="https://www.enesbaspinar.com/blog/frontend/tarayicinin-alametleri-console-api">Tarayıcının Alametleri: Console API (JavaScript)</a><br>
 </div>
 
 <h2>Statistics</h2>
